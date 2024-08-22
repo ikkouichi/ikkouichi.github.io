@@ -1,6 +1,6 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:      Adbanture Start! 				# 标题 
+title:      Advanture Start! 				# 标题 
 subtitle:   Hello World #副标题
 date:       2024-08-22 				# 时间
 author:     IK 						# 作者
