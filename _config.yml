@@ -12,7 +12,7 @@ github_repo: "https://github.com/ikkouichi/ikkouichi.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "迷思的宇宙港"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/hs-2014-18_n2174rotate.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
