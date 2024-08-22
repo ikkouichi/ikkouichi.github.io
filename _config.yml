@@ -1,13 +1,13 @@
 # Site settings
 title: 倒數計時器
 SEOTitle: カウントダウン| 倒數計時器
-header-img: img/post-bg-desk.jpg
+header-img: NGC346.png
 email: ikkouichi@yahoo.co.jp
 description: "無限の隙間で見つけた小さな宝物."
 keyword: "CFD,JRPG,SCI-FI,ASTRO"
 url: "http://ikkouichi.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/ikkouichi/ikkouichi.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
